@@ -8,7 +8,7 @@ description: ⚡ An advanced view on how to install Spicetify.
 ### Powershell (pre-built binary) - Recommended
 
 ```powershell
-iwr -useb https://raw.githubusercontent.com/spicetify/cli/main/install.ps1 | iex
+choco install spicetify-cli
 ```
 
 ### Chocolatey
